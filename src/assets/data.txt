@@ -1,0 +1,6 @@
+mark johansson waffle iron80 2
+mark johansson iron 150 3
+mark johansson knife 300 1
+Nikita Smith pot 54 1
+Nikita Smith knife 150 2
+Nikita Smith waffle iron 250 3
