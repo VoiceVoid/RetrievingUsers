@@ -1,4 +1,8 @@
-# AngularRxJS
+# Retrieving Users
+
+Project, where we retrieve users from free APIs, from website: https://reqres.in/ . 
+The objective was to use CRUD operations. To use REST methods to get, create, edit and delete users. 
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.3.
 
